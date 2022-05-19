@@ -1,5 +1,6 @@
 - 👋 Hola, soy @Adrifer24
 - 👀 Estoy interesado en todo, ya que soy nuevo y no se por donde empezar
+- 🖥️ Se instalar y administrar servidores de Wordpress, Nextcloud y Moodle
 - 📫 Contacto: adri.ferter2@gmail.com
 
 <!---
